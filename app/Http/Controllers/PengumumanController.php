@@ -30,7 +30,7 @@ class PengumumanController extends Controller
 
     public function show(string $id)
     {
-        //
+        // test show
     }
 
     public function edit(string $id)
